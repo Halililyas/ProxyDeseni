@@ -1,0 +1,8 @@
+C:\Users\hızır\Desktop\ProxyDesing\ProxyDesing\bin\Debug\ProxyDesing.exe.config
+C:\Users\hızır\Desktop\ProxyDesing\ProxyDesing\bin\Debug\ProxyDesing.exe
+C:\Users\hızır\Desktop\ProxyDesing\ProxyDesing\bin\Debug\ProxyDesing.pdb
+C:\Users\hızır\Desktop\ProxyDesing\ProxyDesing\obj\Debug\ProxyDesing.csproj.AssemblyReference.cache
+C:\Users\hızır\Desktop\ProxyDesing\ProxyDesing\obj\Debug\ProxyDesing.csproj.SuggestedBindingRedirects.cache
+C:\Users\hızır\Desktop\ProxyDesing\ProxyDesing\obj\Debug\ProxyDesing.csproj.CoreCompileInputs.cache
+C:\Users\hızır\Desktop\ProxyDesing\ProxyDesing\obj\Debug\ProxyDesing.exe
+C:\Users\hızır\Desktop\ProxyDesing\ProxyDesing\obj\Debug\ProxyDesing.pdb
